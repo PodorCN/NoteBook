@@ -1,5 +1,7 @@
 https://uwaterloo.ca/brand/uw-logos/academic-department-and-unit-logos/all
 
+https://www.w3schools.com/bootstrap4/tryit.asp?filename=trybs_navbar_brand2&stacked=h
+
 
 https://www.w3schools.com/css/tryit.asp?filename=trycss_navbar_sticky
 
